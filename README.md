@@ -2,7 +2,6 @@
 
 1. React con hooks
 2. Wordpress
-3. Buenas prácticas en CSS 
 
 
 ## Frontend
